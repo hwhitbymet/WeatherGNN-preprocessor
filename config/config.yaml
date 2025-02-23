@@ -1,0 +1,17 @@
+preprocessor:
+  target_n_lat: 181
+  target_n_lon: 360
+
+data:
+  train_period:
+    name: 'train'
+    start: "2019-01"
+    end: "2019-03"
+  validation_period: 
+    name: 'validation'
+    start: "2020-01"
+    end: "2020-03"
+  test_period:
+    name: 'test'
+    start: "2021-01"
+    end: "2021-03"
